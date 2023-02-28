@@ -1,0 +1,17 @@
+@Metadata.layer: #CUSTOMER
+annotate entity ZVKSC_Airline_R with
+{
+
+      @EndUserText:{ label: 'Airline ID' }
+      AirlineID;
+  //    AirlineName;
+  //    CurrencyCode;
+  //    LocalCreatedBy;
+  //    LocalCreatedAt;
+  //    LocalLastChangedBy;
+  //    LocalLastChangedAt;
+  //    LastChangedAt;
+  //    /* Associations */
+  //    _ConnectingRoutes;
+
+}
